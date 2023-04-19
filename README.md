@@ -46,7 +46,7 @@ Hello there, my name is Renato Augusto. I am currently in the second year of the
   
 <div>
 
- ![snake animation](https://github.com/netorapg/netorapg/blob/output/github-contribution-grid-snake2.svg)
+ ![snake gif](https://github.com/netorapg/netorapg/blob/output/github-contribution-grid-snake.svg)
 </div>
    
  <h2>  Contact </h2>
