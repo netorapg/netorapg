@@ -27,6 +27,7 @@ jobs:
           github_user_name: netorapg #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'red'
 
       - run: git status
 
