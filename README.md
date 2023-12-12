@@ -27,11 +27,11 @@ Hello there, my name is Renato Augusto. I am currently in the second year of the
   <img align="center" alt="Rust" title="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <p>Frameworks</p>
   <img align="center" alt="Flutter" title="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" >
-  <img align="center" alt="AngularJS" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="AngularJS" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <br/>
   <p>IDEs</p>
   <img align="center" alt="Vim" title="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg"  >
-<img align="center" alt="VSCode" title="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VSCode" title="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <br/>
   <p>Other Technologies</p>
    <img align="center" alt="Bash" title="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" >
