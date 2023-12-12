@@ -27,6 +27,7 @@ Hello there, my name is Renato Augusto. I am currently in the second year of the
   <img align="center" alt="Rust" title="Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <p>Frameworks</p>
   <img align="center" alt="Flutter" title="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" >
+  <img align="center" alt="AngularJS" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <br/>
   <p>IDEs</p>
   <img align="center" alt="Vim" title="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg"  >
