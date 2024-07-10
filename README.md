@@ -38,6 +38,11 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
   <p>IDEs</p>
   <img align="center" alt="Vim" title="Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg"  >
   <img align="center" alt="VSCode" title="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Eclipse" title="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Eclipse" title="Eclipse" height="30" width="40" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+
+
+  
   <br/>
   <p>Other Technologies</p>
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" >
