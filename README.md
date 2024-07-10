@@ -38,13 +38,15 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
   <img align="center" alt="VSCode" title="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <br/>
   <p>Other Technologies</p>
-   <img align="center" alt="Bash" title="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" >
+  <img align="center" alt="Bash" title="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" >
   <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Copilot" title="Copilot" height="30" width="40"
-        src="https://api.iconify.design/logos/github-copilot.svg">
-   <img align="center" alt="GIT" title="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Copilot" title="Copilot" height="30" width="40" src="https://api.iconify.design/logos/github-copilot.svg">
+  <img align="center" alt="GIT" title="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="BitBucket" title="BitBucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" >
+
+  
 
   </div>
   
