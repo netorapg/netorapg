@@ -30,6 +30,7 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
   <img align="center" alt="AngularJS" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" >
   <img align="center" alt="NuxtJS" title="NuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" >
+   <img align="center" alt="Vuetify" title="Vuetify" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" >
 
   <br/>
   <p>IDEs</p>
