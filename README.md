@@ -24,6 +24,8 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
 <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="C" title="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="C++" title="C++" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
+<img align="center" alt="Lua" title="Lua" hieght="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+          
 
 <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" > 
 <img align="center" alt="Typescript" title="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
@@ -32,7 +34,10 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
   <img align="center" alt="AngularJS" title="AngularJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" >
   <img align="center" alt="NuxtJS" title="NuxtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" >
-   <img align="center" alt="Vuetify" title="Vuetify" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" >
+  <img align="center" alt="Vuetify" title="Vuetify" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" > 
+  <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ 
+          
 
   <br/>
   <p>IDEs</p>
@@ -51,10 +56,13 @@ Hello there, my name is Renato Augusto. I am currently in the third year of the 
   <img align="center" alt="Arduino" title="Arduino/IoT" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQLite" title="SQLite" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="Copilot" title="Copilot" height="30" width="40" src="https://api.iconify.design/logos/github-copilot.svg">
   <img align="center" alt="GIT" title="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="BitBucket" title="BitBucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg">
-  <img align="center" alt="Git Hub" title="Git Hub" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" >
+  <img align="center" alt="NodeJS" title="NodeJS" hieght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Docker" title="Docker" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
 
 
   
