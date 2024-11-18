@@ -1,5 +1,5 @@
 ## Renato Augusto Platz Guimarães Neto
-Hello there, my name is Renato Augusto. I am currently in the third year of the Bachelor of Software Engineering course at the Federal Institute of Paraná at the Paranavaí Campus. Feel free to use my public repositories.
+Hello there, my name is Renato Augusto. I am currently in the third year of the Bachelor of Software Engineering course at the Federal Institute of Paraná at the Paranavaí Campus. I worked on different types of projects, from web, mobile, robotics and even games. Feel free to see my public repositories and you can always contact me if you want to talk, see ya.
 
 <h3> "Talk is cheap. Show me the code" - Torvalds, Linus </h3>
 <div align="center">
