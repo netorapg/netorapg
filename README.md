@@ -3,7 +3,7 @@
 # Renato Augusto Platz Guimarães Neto :brazil:
 
 ### About Me  
-Hi! I'm Renato Augusto, a passionate software engineering student currently in my third year at the Federal Institute of Paraná, Paranavaí Campus.  
+Hi! I'm Renato Augusto, a passionate software engineering student currently in my fourth year at the Federal Institute of Paraná, Paranavaí Campus.  
 I thrive on creating solutions across diverse domains, including **web development**, **mobile apps**, **robotics**, and **game development**.  
 Feel free to explore my [public repositories](https://github.com/netorapg?tab=repositories), and don't hesitate to reach out for a chat or collaboration. 🚀  
 
