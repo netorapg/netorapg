@@ -1,7 +1,7 @@
 # Renato Augusto Platz Guimarães Neto :brazil:
 
 ### About Me  
-Hi! I'm Renato Augusto, a passionate software engineering student currently in my fourth year at the Federal Institute of Paraná, Paranavaí Campus.  
+Hi! I'm Renato Augusto, a passionate software engineer bachelor. Currently making master`s degree on Computer Cience on UEL.   
 
 I specialize in **Mobile Development** and **Backend Solutions**, with a strong focus on **DevOps** practices. Currently, I'm building scalable applications using **Flutter** and **.NET**, while exploring containerization and orchestration with **Docker**, **Podman**, and **Portainer**.
 
