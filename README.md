@@ -74,6 +74,6 @@ I also built **ProComanda**, a .NET MAUI ordering app for bars and restaurants, 
 
 ## Get in touch
 
-[Portfolio](https://netorapg.github.io/AtomPortfolio/) · [LinkedIn](https://www.linkedin.com/in/renato-augusto-platz-guimarães-neto-b930551b7/) · [renatoplatz11@gmail.com](mailto:renatoplatz11@gmail.com)
+[Portfolio](https://netorapg.github.io/AtomPortfolio/) · [LinkedIn](www.linkedin.com/in/renatoaugustoplatzgneto) · [renatoplatz11@gmail.com](mailto:renatoplatz11@gmail.com)
 
 Open to remote roles. I speak Portuguese and English (C1).
